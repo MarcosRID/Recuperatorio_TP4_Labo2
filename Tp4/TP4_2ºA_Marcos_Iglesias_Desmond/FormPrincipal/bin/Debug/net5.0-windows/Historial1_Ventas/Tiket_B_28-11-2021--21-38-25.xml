@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Ticket xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Fecha>28/11/2021 21:38:25</Fecha>
+  <Id_ticket>10000</Id_ticket>
+  <Tipo_de_ticket>66</Tipo_de_ticket>
+  <TotalAPagar>390</TotalAPagar>
+</Ticket>

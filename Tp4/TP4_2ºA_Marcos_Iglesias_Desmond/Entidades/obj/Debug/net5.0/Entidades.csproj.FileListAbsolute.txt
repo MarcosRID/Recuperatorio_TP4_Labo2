@@ -1,0 +1,49 @@
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp3\TP3_2ºA_Marcos_Iglesias_Desmond\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp3\TP3_2ºA_Marcos_Iglesias_Desmond\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp3\TP3_2ºA_Marcos_Iglesias_Desmond\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp3\TP3_2ºA_Marcos_Iglesias_Desmond\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp3\TP3_2ºA_Marcos_Iglesias_Desmond\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp3\TP3_2ºA_Marcos_Iglesias_Desmond\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp3\TP3_2ºA_Marcos_Iglesias_Desmond\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp3\TP3_2ºA_Marcos_Iglesias_Desmond\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp3\TP3_2ºA_Marcos_Iglesias_Desmond\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp3\TP3_2ºA_Marcos_Iglesias_Desmond\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp3\TP3_2ºA_Marcos_Iglesias_Desmond\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp3\TP3_2ºA_Marcos_Iglesias_Desmond\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\Entidades\obj\Debug\net5.0\Entidades.csproj.ResolveComReference.cache

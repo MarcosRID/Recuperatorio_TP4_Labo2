@@ -1,0 +1,206 @@
+*** MESSAGE ***
+Access to the path 'C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Historial1_Ventas' is denied.
+*** STACK TRACE ***
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.Xml.XmlTextWriter..ctor(String filename, Encoding encoding)
+   at Entidades.Archivos`1.Serializar(T objeto, String path) in C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\Entidades\Archivos.cs:line 21
+__________________________________
+*** MESSAGE ***
+Object reference not set to an instance of an object.
+*** STACK TRACE ***
+   at System.Xml.Serialization.TypeScope.ShouldBeReplaced(MemberInfo memberInfoToBeReplaced, Type derivedType, MemberInfo& replacedInfo)
+   at System.Xml.Serialization.TypeScope.PopulateMemberInfos(StructMapping structMapping, MemberMapping[] mappings, Dictionary`2 memberInfos)
+   at System.Xml.Serialization.XmlSerializationWriterILGen.WriteStructMethod(StructMapping mapping)
+   at System.Xml.Serialization.XmlSerializationWriterILGen.GenerateMethod(TypeMapping mapping)
+   at System.Xml.Serialization.XmlSerializationILGen.GenerateReferencedMethods()
+   at System.Xml.Serialization.XmlSerializationWriterILGen.GenerateEnd()
+   at System.Xml.Serialization.TempAssembly.GenerateRefEmitAssembly(XmlMapping[] xmlMappings, Type[] types, String defaultNamespace)
+   at System.Xml.Serialization.TempAssembly..ctor(XmlMapping[] xmlMappings, Type[] types, String defaultNamespace, String location)
+   at System.Xml.Serialization.XmlSerializer.GenerateTempAssembly(XmlMapping xmlMapping, Type type, String defaultNamespace, String location)
+   at System.Xml.Serialization.XmlSerializer..ctor(Type type, String defaultNamespace)
+   at System.Xml.Serialization.XmlSerializer..ctor(Type type)
+   at Entidades.Archivos`1.Serializar(T objeto, String path) in C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\Entidades\Archivos.cs:line 27
+__________________________________
+*** MESSAGE ***
+There is an error in XML document (0, 0).
+*** STACK TRACE ***
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader)
+   at Entidades.Archivos`1.Deserializar(String path) in C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\Entidades\Archivos.cs:line 49
+*** INNER EXCEPTION***
+System.UnauthorizedAccessException: Access to the path 'C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Historial1_Ventas' is denied.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy)
+   at System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   at System.Xml.XmlTextReaderImpl.OpenUrl()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlTextReader.Read()
+   at System.Xml.XmlReader.MoveToContent()
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderTicket.Read3_Ticket()
+__________________________________
+*** MESSAGE ***
+There is an error in XML document (0, 0).
+*** STACK TRACE ***
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader)
+   at Entidades.Archivos`1.Deserializar(String path) in C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\Entidades\Archivos.cs:line 49
+*** INNER EXCEPTION***
+System.UnauthorizedAccessException: Access to the path 'C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Historial1_Ventas' is denied.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy)
+   at System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   at System.Xml.XmlTextReaderImpl.OpenUrl()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlTextReader.Read()
+   at System.Xml.XmlReader.MoveToContent()
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderTicket.Read3_Ticket()
+__________________________________
+*** MESSAGE ***
+There is an error in XML document (0, 0).
+*** STACK TRACE ***
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader)
+   at Entidades.Archivos`1.Deserializar(String path) in C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\Entidades\Archivos.cs:line 49
+*** INNER EXCEPTION***
+System.UnauthorizedAccessException: Access to the path 'C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Historial1_Ventas' is denied.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy)
+   at System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   at System.Xml.XmlTextReaderImpl.OpenUrl()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlTextReader.Read()
+   at System.Xml.XmlReader.MoveToContent()
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderTicket.Read3_Ticket()
+__________________________________
+*** MESSAGE ***
+There is an error in XML document (0, 0).
+*** STACK TRACE ***
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader)
+   at Entidades.Archivos`1.Deserializar(String path) in C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\Entidades\Archivos.cs:line 49
+*** INNER EXCEPTION***
+System.UnauthorizedAccessException: Access to the path 'C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Historial1_Ventas' is denied.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy)
+   at System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   at System.Xml.XmlTextReaderImpl.OpenUrl()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlTextReader.Read()
+   at System.Xml.XmlReader.MoveToContent()
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderTicket.Read3_Ticket()
+__________________________________
+*** MESSAGE ***
+There is an error in XML document (0, 0).
+*** STACK TRACE ***
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader)
+   at Entidades.Archivos`1.Deserializar(String path) in C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\Entidades\Archivos.cs:line 49
+*** INNER EXCEPTION***
+System.UnauthorizedAccessException: Access to the path 'C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Historial1_Ventas' is denied.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy)
+   at System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   at System.Xml.XmlTextReaderImpl.OpenUrl()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlTextReader.Read()
+   at System.Xml.XmlReader.MoveToContent()
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderTicket.Read3_Ticket()
+__________________________________
+*** MESSAGE ***
+There is an error in XML document (0, 0).
+*** STACK TRACE ***
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader)
+   at Entidades.Archivos`1.Deserializar(String path) in C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\Entidades\Archivos.cs:line 50
+*** INNER EXCEPTION***
+System.UnauthorizedAccessException: Access to the path 'C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Historial1_Ventas' is denied.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy)
+   at System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   at System.Xml.XmlTextReaderImpl.OpenUrl()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlTextReader.Read()
+   at System.Xml.XmlReader.MoveToContent()
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderTicket.Read3_Ticket()
+__________________________________
+*** MESSAGE ***
+There is an error in XML document (0, 0).
+*** STACK TRACE ***
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader)
+   at Entidades.Archivos`1.Deserializar(String path) in C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\Entidades\Archivos.cs:line 50
+*** INNER EXCEPTION***
+System.UnauthorizedAccessException: Access to the path 'C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Historial1_Ventas' is denied.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy)
+   at System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   at System.Xml.XmlTextReaderImpl.OpenUrl()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlTextReader.Read()
+   at System.Xml.XmlReader.MoveToContent()
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderTicket.Read3_Ticket()
+__________________________________
+*** MESSAGE ***
+There is an error in XML document (0, 0).
+*** STACK TRACE ***
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader)
+   at Entidades.Archivos`1.Deserializar(String path) in C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\Entidades\Archivos.cs:line 50
+*** INNER EXCEPTION***
+System.UnauthorizedAccessException: Access to the path 'C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Historial1_Ventas' is denied.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy)
+   at System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   at System.Xml.XmlTextReaderImpl.OpenUrl()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlTextReader.Read()
+   at System.Xml.XmlReader.MoveToContent()
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderTicket.Read3_Ticket()
+__________________________________
+*** MESSAGE ***
+There is an error in XML document (0, 0).
+*** STACK TRACE ***
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader)
+   at Entidades.Archivos`1.Deserializar(String path) in C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\Entidades\Archivos.cs:line 50
+*** INNER EXCEPTION***
+System.UnauthorizedAccessException: Access to the path 'C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Historial1_Ventas' is denied.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy)
+   at System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   at System.Xml.XmlTextReaderImpl.OpenUrl()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlTextReader.Read()
+   at System.Xml.XmlReader.MoveToContent()
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderTicket.Read3_Ticket()
+__________________________________

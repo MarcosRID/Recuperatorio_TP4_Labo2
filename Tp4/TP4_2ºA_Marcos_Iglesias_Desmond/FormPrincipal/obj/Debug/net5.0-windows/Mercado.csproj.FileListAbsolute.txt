@@ -1,0 +1,123 @@
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp3\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp3\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.FormCaja.resources
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp3\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.FormPrincipal.resources
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp3\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp3\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp3\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp3\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp3\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp3\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Mercado.exe
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp3\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Mercado.deps.json
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp3\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Mercado.runtimeconfig.json
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp3\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Mercado.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp3\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Mercado.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp3\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\ref\Mercado.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp3\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Mercado.pdb
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp3\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp3\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\ref\Mercado.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp3\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.pdb
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp3\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp3\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp3\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp3\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.FormClienteRealizaCompra.resources
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp3\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.FormTicket.resources
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp3\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp3\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.formRenovarStock.resources
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp3\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.FormEditarProducto.resources
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Mercado.exe
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Mercado.deps.json
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Mercado.runtimeconfig.json
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Mercado.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Mercado.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\ref\Mercado.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Mercado.pdb
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.FormCaja.resources
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.FormClienteRealizaCompra.resources
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.FormEditarProducto.resources
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.FormPrincipal.resources
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.formRenovarStock.resources
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.FormTicket.resources
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\ref\Mercado.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.pdb
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP3_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Mercado.exe
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Mercado.deps.json
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Mercado.runtimeconfig.json
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Mercado.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Mercado.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\ref\Mercado.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Mercado.pdb
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.FormCaja.resources
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.FormClienteRealizaCompra.resources
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.FormEditarProducto.resources
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.FormPrincipal.resources
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.formRenovarStock.resources
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.FormTicket.resources
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\ref\Mercado.dll
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.pdb
+C:\Users\Usuario\Desktop\Mi Estudio\Estudio UTN\2º Cuatrimestre 2ºintento\Laboratorio II\Tps\Tp1\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Mercado.exe
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Mercado.deps.json
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Mercado.runtimeconfig.json
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Mercado.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Mercado.dll
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\ref\Mercado.dll
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Mercado.pdb
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.FormCaja.resources
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.FormClienteRealizaCompra.resources
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.FormEditarProducto.resources
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.FormPrincipal.resources
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.formRenovarStock.resources
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.FormTicket.resources
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.dll
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\ref\Mercado.dll
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.pdb
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Tp4\TP4_2ºA_Marcos_Iglesias_Desmond\FormPrincipal\obj\Debug\net5.0-windows\Mercado.FormHistorialVentas.resources

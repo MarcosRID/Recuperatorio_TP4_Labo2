@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ConfiguracionAPP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ConetionString>Data Source= (local)\sqlexpress ; Initial Catalog =TP4_IglesiasMarcos ; Integrated Security=True</ConetionString>
+</ConfiguracionAPP>
